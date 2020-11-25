@@ -28,6 +28,7 @@ Then we draw the Q-Q plot.
 qqnorm(data)
 ```
 We can see that point nearly falling along a straight line.
+Q-Q plot(https://github.com/YuhePei/statistics-knowledge/blob/main/picture/Q-Q%20plot.png)
 With the increase of the data, the straight line will meet more precisely.
 
 **reference**
