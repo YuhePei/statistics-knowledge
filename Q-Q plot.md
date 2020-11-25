@@ -13,10 +13,12 @@ Q-Q plot is quantile-quantile plot for short. And it can examine whether a set o
 2. Now that they have same amount of data, draw the Q-Q plot using one sameple as X-axis and another as Y-axis.
 
 **how to read Q-Q plot**
+
 If points falling along a straight line, we can say the dataset conform to a certain distribution or two dataset come from same distribution. 
 But we should be noticed that Q-Q plot just give us a quick and visual glance at the dataset distribution. It is not a strict proof.
 
 **an example of R realization**
+
 First we create a dataset fit standard normal distribution with 100 data and means of 10
 `data <- rnorm(100,mean =10 )`
 then we draw the Q-Q plot
