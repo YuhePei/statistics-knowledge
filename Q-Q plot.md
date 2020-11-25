@@ -1,6 +1,7 @@
 Q-Q plot is quantile-quantile plot for short. And it can examine whether a set of data conform to a certain distribution. Also, it can test whether two data set have same distribution.
 
 **how to draw Q-Q plot**
+
 **one dataset**
 1. Rank all the data in ascend order
 2. Count the quantile for every data. for data Xi, its quantile Pi can bFe calculated as Pi=(i-0.5)/n. (note that at this place mines 0.5 is for to find limits, in other place the quantile need not mines 0.5)
