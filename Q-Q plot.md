@@ -17,7 +17,7 @@ But we should be noticed that Q-Q plot just give us a quick and visual glance at
 
 **an example of R realization**
 First we create a dataset fit standard normal distribution with 100 data and means of 10
-`data <- rnorm(100,mean =10 )'
+`data <- rnorm(100,mean =10 )`
 then we draw the Q-Q plot
 `qqnorm(data)`
 we can see that point nearly falling along a straight line
